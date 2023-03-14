@@ -1,0 +1,32 @@
+.container {
+  width: 80%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+
+  display: flex;
+  gap: 25px;
+}
+
+article {
+  width: 50%;
+}
+
+.top-content {
+  display: flex;
+}
+
+.top-content img {
+  width: 465px;
+  height: auto;
+}
